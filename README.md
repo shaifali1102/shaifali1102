@@ -1,4 +1,11 @@
-### Hi there 👋
+
+- 👋 Hi, I’m Shaifali! 
+- 🌱 I'm currently learning DSML!
+- 👯‍♀️ I’m looking to collaborate on ML projects
+- ✨ I like reading, and I'm a skincare-enthusiast
+- 🐶 Two doggos - Bruno & Zoey 
+- 📫 Linkedin: http://linkedin.com/in/shaifali11/
+
 
 <!--
 **shaifali1102/shaifali1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
